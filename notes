@@ -1,0 +1,5 @@
+Claude Skill
+A Claude Skill is available to help you build DSPy.rb applications:
+
+# Claude Code
+git clone https://github.com/vicentereig/dspy-rb-skill ~/.claude/skills/dspy-rb
